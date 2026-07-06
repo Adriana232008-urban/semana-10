@@ -1,0 +1,16 @@
+Backlog de una plataforma comunitaria
+
+Prioridad 1
+Como ciudadano quiero registrar una incidencia para dejar evidencia de un problema en mi comunidad.
+
+Prioridad 2
+Como coordinador quiero recibir una notificación en Telegram cuando se registre un nuevo reporte para dar seguimiento oportuno.
+
+Prioridad 3
+Como miembro del equipo quiero consultar los reportes registrados para verificar su estado y avance.
+
+Prioridad 4
+Como administrador quiero actualizar el estado de los reportes para mantener informada a la comunidad.
+
+Prioridad 5
+Como ciudadano quiero consultar el estado de mi reporte para conocer el progreso de la gestión realizada.

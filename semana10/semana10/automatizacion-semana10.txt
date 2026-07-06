@@ -1,0 +1,16 @@
+Flujo de automatización
+
+Evento: Nuevo reporte registrado.
+
+Acción: n8n envía un mensaje a Telegram.
+
+Mensaje:
+"Nuevo reporte recibido. Revisar sistema."
+
+No debe enviarse:
+- Nombres completos
+- Documentos de identidad
+- Direcciones
+- Teléfonos
+- Contraseñas
+- Datos sensibles

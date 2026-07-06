@@ -1,0 +1,11 @@
+Las dos tareas que realizaría primero son:
+
+1. Crear el formulario para registrar incidencias.
+2. Configurar las notificaciones en Telegram.
+
+Estas tareas son las más importantes porque permiten comenzar a recibir reportes de la comunidad y avisar rápidamente a los responsables.
+
+Una tarea está terminada cuando:
+- Funciona correctamente.
+- Fue probada.
+- Está registrada en Git mediante un commit.
